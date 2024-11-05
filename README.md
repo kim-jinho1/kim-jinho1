@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving)
 # 안녕! 반가워!!
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=내+github에+온+것을+환영해!;+내+이름은+"김진호"야!)](https://git.io/typing-svg)
 
