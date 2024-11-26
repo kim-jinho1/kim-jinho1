@@ -12,5 +12,3 @@
 ![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&)
 ![js](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
-
-<a href="https://www.youtube.com/@chicken_hurrah" target="_blank"><img src="https://yt3.googleusercontent.com/ytc/AIdro_mjPOB8h-cMEZq3ctWbl3AHfCcNiO_vgr5Gym-NJAlDXJ4=s900-c-k-c0x00ffffff-no-rj"/></a>
