@@ -8,8 +8,8 @@
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jinho1&show_icons=true&theme=radical)  
-<img src="http://mazandi.herokuapp.com/api?handle=kimjinho&theme=cold"/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinho)](https://solved.ac/kimjinho/)  
+<img src="http://mazandi.herokuapp.com/api?handle=kimjinho&theme=cold"/>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jinho1)  
 
 
