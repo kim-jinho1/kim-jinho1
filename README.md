@@ -7,14 +7,16 @@
 이곳에서는 제가 작업한 프로젝트들이 있습니다. 자유롭게 둘러보세요! 🚀
 
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jinho1)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jinho1&show_icons=true&theme=radical)
+## * 사용 언어 *
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jinho1)  
+## * 깃 정보 *
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jinho1&show_icons=true&theme=radical)  
+## * 백준 정보 *
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinho)](https://solved.ac/kimjinho/)
 <img src="http://mazandi.herokuapp.com/api?handle=kimjinho&theme=cold"/>
 
 
-
+## * 기타 정보 *
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&)
