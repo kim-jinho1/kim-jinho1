@@ -7,7 +7,7 @@
 이곳에서는 제가 작업한 프로젝트들이 있습니다. 자유롭게 둘러보세요! 🚀
 
 
-## * 사용 언어 *
+## * 사용 언어 정보 *
 저는 주로 C#을 사용합니다.  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jinho1)  
 ## * 깃 정보 *
