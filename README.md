@@ -4,11 +4,11 @@
 
 # 👋 안녕하세요! 제 깃허브에 오신 것을 환영합니다!
 ## 저는 게임개발자가 되고 싶은 학생입니다!
-이곳에서는 제가 작업한 프로젝트들이 있습니다. 자유롭게 둘러보세요! 🚀
+### 이곳에서는 제가 작업한 프로젝트들이 있습니다. 자유롭게 둘러보세요! 🚀
 
 
 ## * 사용 언어 정보 *
-저는 주로 C#을 사용합니다.  
+### 저는 주로 C#을 사용합니다.  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jinho1)  
 ## * 깃 정보 *
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jinho1&show_icons=true&theme=radical)  
