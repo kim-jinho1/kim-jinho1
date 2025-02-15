@@ -8,6 +8,7 @@
 
 
 ## * 사용 언어 정보 *
+### 저는 주로 C#을 사용합니다.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jinho1)  
 ## * 깃 정보 *
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jinho1&show_icons=true&theme=radical)  
