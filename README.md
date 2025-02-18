@@ -16,16 +16,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinho)](https://solved.ac/kimjinho/)
 <img src="http://mazandi.herokuapp.com/api?handle=kimjinho&theme=cold"/>
 
-
-## * 기타 정보 *
-![js](https://img.shields.io/badge/unity-Black.svg?&style=flat-square&logo=unity&logoColor=white)
-![js](https://img.shields.io/badge/discord-Black.svg?&style=flat-square&logo=discord&logoColor=white)
-
 </div>
-
-
-
-
-
-
-
