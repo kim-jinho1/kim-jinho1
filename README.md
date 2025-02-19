@@ -16,4 +16,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinho)](https://solved.ac/kimjinho/)
 <img src="http://mazandi.herokuapp.com/api?handle=kimjinho&theme=cold"/>
 
+## * 기술 스택 정보 * 
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>  
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+## * 연락처 정보 *
+- Email: russiakim2008@gmail.com
+
 </div>
