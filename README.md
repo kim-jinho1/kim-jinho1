@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 ## * 연락처 정보 *
-- Email: russiakim2008@gmail.com
+- Email : russiakim2008@gmail.com
+- Discord : kimjinho0481
 
 </div>
