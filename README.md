@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=&fontAlign=70&stroke=FFFFFF&strokeWidth=3&fontColor=white&height=200)
 
 # 👋 안녕하세요! 제 깃허브에 오신 것을 환영합니다!
-## 저는 게임개발자가 되고 싶은 학생입니다!
+## 저는 프로그래머가 되고 싶은 학생입니다!
 ### 게임 개발과 프로그래밍을 즐기는 학생입니다. 😊
 ### 이곳에서는 제가 작업한 프로젝트들이 있습니다. 자유롭게 둘러보세요! 🚀
 
