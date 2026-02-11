@@ -16,7 +16,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jinho1&show_icons=true&theme=radical)  
 ## * 백준 정보 *
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinho)](https://solved.ac/kimjinho/)
-<img src="http://mazandi.herokuapp.com/api?handle=kimjinho&theme=cold"/>
 
 ## * 기술 정보 * 
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>  
