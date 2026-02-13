@@ -1,33 +1,41 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&text=&fontAlign=70&stroke=FFFFFF&strokeWidth=3&fontColor=white&height=200)
 
-# 👋 안녕하세요! 제 깃허브에 오신 것을 환영합니다!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C3FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Game+Developer+in+training!;I+love+Unity+%26+Programming!)](https://git.io/typing-svg)
-## 저는 프로그래머가 되고 싶은 학생입니다!
-### 게임 개발을 즐기는 학생입니다. 😊
-### 이곳에서는 제가 작업한 프로젝트들이 있습니다. 자유롭게 둘러보세요! 🚀
+![header](https://capsule-render.vercel.app/api?type=waving&color=00C3FF&height=200&section=header&text=KIM%20JINHO&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-## * 사용 언어 정보 *
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+# 👋 안녕하세요, 게임 개발자 지망생 김진호입니다!
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kim-jinho1&layout=compact&theme=radical)
-## * 깃 정보 *
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kim-jinho1&show_icons=true&theme=radical)
-## * 백준 정보 *
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C3FF&center=true&vCenter=true&width=500&lines=Unity+Game+Developer+in+training!;Exploring+C%23+and+C%2B%2B!;Welcome+to+my+Creative+Space!)](https://git.io/typing-svg)
+
+### 🚀 "즐거운 경험을 만드는 프로그래머를 꿈꿉니다"
+이곳은 저의 고민과 노력이 담긴 프로젝트 저장소입니다. 자유롭게 둘러보세요!
+
+<br/>
+
+## 🛠 Tech Stack
+<img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=jetbrains&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+<br/>
+<br/>
+
+## 📊 GitHub Contributions
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kim-jinho1&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kim-jinho1&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<br/>
+
+## 🏆 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinho)](https://solved.ac/kimjinho/)
 
-## * 기술 정보 * 
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>  
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
-<br>
-<img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<br/>
 
-## * 연락처 정보 *
-- Email : russiakim2008@gmail.com
-- Discord : kimjinho0481
+## ✉️ Contact Me
+<a href="mailto:russiakim2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> `kimjinho0481`
+
+<br/>
 
 </div>
