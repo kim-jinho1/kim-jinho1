@@ -25,6 +25,10 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kim-jinho1&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" />
+</p>
+
 <br/>
 
 ## 🏆 Problem Solving
