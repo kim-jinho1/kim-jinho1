@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00C3FF&center=true&vCenter=true&width=600&lines=Unity+Game+Developer+in+training!;Exploring+C%23+and+C%2B%2B+%26+DirectX!;Building+fun+%26+creative+experiences!;Welcome+to+my+Creative+Space!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00C3FF&center=true&vCenter=true&width=600&lines=Unity+Game+Developer+in+training!;Exploring+C%23+and+C%2B%2B!;Building+fun+%26+creative+experiences!;Welcome+to+my+Creative+Space!)](https://git.io/typing-svg)
 
 <br/>
 
