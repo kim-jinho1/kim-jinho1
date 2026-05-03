@@ -65,10 +65,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kim-jinho1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
 </p>
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" />
-</p>
-
 <br/>
 
 ---
