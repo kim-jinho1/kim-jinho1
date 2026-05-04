@@ -60,8 +60,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kim-jinho1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" height="160"/>
-  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kim-jinho1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" height="160"/> 
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kim-jinho1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
 </p>
 
