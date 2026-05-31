@@ -114,22 +114,6 @@
 
 </div>
 
-## 🏆 Problem Solving
-
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinho)](https://solved.ac/kimjinho/)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F1B3D,100:00C3FF&height=2&section=header)
-
-</div>
-
 ## 📬 Contact Me
 
 <div align="center">
